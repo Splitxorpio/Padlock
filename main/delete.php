@@ -17,7 +17,7 @@
     <div class="container">
         <form action="dashboard.php" method="POST" class="formholdercon" style="left: 15%; top: 25%; border-radius: 50px;">
             <h1>Are you sure you wish to delete your account? This is not reversable!</h1>
-            <div class="g-recaptcha" data-sitekey="6LdaYhgcAAAAAOlRvg-fili6zKkmjSZeQwOMjYsg" name="notbot"></div>
+            <div class="g-recaptcha" data-sitekey="*" name="notbot"></div>
             <input type="submit" name="accdelete" value="Delete Account">
         </form>
     </div>
