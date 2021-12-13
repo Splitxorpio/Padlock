@@ -37,7 +37,7 @@ session_start();
             <hr style="width: 50%; margin-top: 5px; margin-bottom: 5px; ">
             <input type="text" name="username" readonly onfocus="this.removeAttribute('readonly');" id="username">
             <input type="password" name="password" readonly onfocus="this.removeAttribute('readonly');" id="password">
-            <div class="g-recaptcha" data-sitekey="6LdaYhgcAAAAAOlRvg-fili6zKkmjSZeQwOMjYsg" name="notbot"></div>
+            <div class="g-recaptcha" data-sitekey="*" name="notbot"></div>
             <input name="register" type="submit" value="Log In">
             <a href="signup.php" style="color: black;">Don't have an account? Sign Up here</a>
         </form>
