@@ -48,7 +48,7 @@ if (isset($_POST['register'])) {
             <hr style="width: 50%; margin-top: 5px; margin-bottom: 5px; ">
             <input type="text" name="username" readonly onfocus="this.removeAttribute('readonly');" id="username">
             <input type="password" name="password" readonly onfocus="this.removeAttribute('readonly');" id="password">
-            <div class="g-recaptcha" data-sitekey="6LdaYhgcAAAAAOlRvg-fili6zKkmjSZeQwOMjYsg" name="notbot"></div>
+            <div class="g-recaptcha" data-sitekey="*" name="notbot"></div>
             <input type="submit" name="register" value="Sign Up">
             <br>
             <a style="padding-bottom: 20px; color: black;" href="login.php">Already Registered? Login</a>
