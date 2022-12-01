@@ -38,11 +38,10 @@
                 operating softwares out there that have password lockers.
             </p>
             <strong style="font-size: 15px;">Additional Info</strong>
-            <p style="font-size: 15px; margin-bottom: 10px;">Padlock 1.1.3 (ALPHA) Is Out!</p>
+            <p style="font-size: 15px; margin-bottom: 10px;">Padlock 1.1.3 Coming Soon</p>
             <ul style="font-size: 15px; margin-left: 13px;">
-                <li><strong>OFFICIAL RELEASE OF PADLOCK COMING SOON!</strong></li>
                 <li>New User Interface</li>
-                <li>Security Updates, Now Immune to SQL Injections.</li>
+                <li>Security Updates, Anti-SQL Injections.</li>
                 <li>Fixed a bug where people encountered a Fatal Error when logging in</li>
                 <li>All new database to store your beautiful passwords/personal info in :)</li>
             </ul>
